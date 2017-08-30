@@ -4,8 +4,8 @@ Super Python Chat Bot 1.2
  About:
 - Super Python Chat Bot - everything is clear from the title)))
 - The python script was written in a team:
- . Mykyta Lazariev (s15928) 
- . Dmytro Prysekin (s15698)
+ . s15928
+ . s15698
 
  _____________
  Requirements:
